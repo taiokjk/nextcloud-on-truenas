@@ -184,9 +184,9 @@ changeme
 
 Obtaining SSL:
 
-![nextcloud-details](./screenshots/nginx-details.png)
-![nextcloud-SSL](./screenshots/nginx-SSL.png)
-![nextcloud-advanced](./screenshots/nginx-advanced.png)
+[<img src="./screenshots/nginx-details.png" width="350"/>](nginx-details.png)<br>
+[<img src="./screenshots/nginx-SSL.png" width="350"/>](nginx-SSL.png)<br>
+[<img src="./screenshots/nginx-advanced.png" width="350"/>](nginx-advanced.png)
 
 ## 5. Installing nextcloud aio
 
@@ -223,9 +223,11 @@ volumes: # If you want to store the data on a different drive, see https://githu
 ```
 
 Nginx Proxy Manager configs:
-![nextcloud-details](./screenshots/nextcloud-details.png)
-![nextcloud-SSL](./screenshots/nextcloud-SSL.png)
-![nextcloud-advanced](./screenshots/nextcloud-advanced.png)
+
+[<img src="./screenshots/nextcloud-details.png" width="350"/>](nextcloud-details.png)<br>
+[<img src="./screenshots/nextcloud-SSL.png" width="350"/>](nextcloud-SSL.png)<br>
+[<img src="./screenshots/nextcloud-advanced.png" width="350"/>](nextcloud-advanced.png)
+
 ```
 client_body_buffer_size 512k;
 proxy_read_timeout 86400s;
